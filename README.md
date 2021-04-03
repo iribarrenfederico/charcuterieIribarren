@@ -1,0 +1,2 @@
+# charcuterieIribarren
+Curso CoderHouse
